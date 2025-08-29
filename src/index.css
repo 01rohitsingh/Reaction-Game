@@ -1,0 +1,4 @@
+@import "tailwindcss";
+.target-shadow {
+  box-shadow: 0 6px 20px rgba(99,102,241,0.18), inset 0 -4px 10px rgba(0,0,0,0.2);
+}
